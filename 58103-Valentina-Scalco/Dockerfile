@@ -5,4 +5,4 @@ WORKDIR /Tercer_parcial
 
 RUN pip install parameterized
 
-CMD [ "python3", "test_tateti.py"]
+CMD [ "python3", "./test_tateti.py"]
